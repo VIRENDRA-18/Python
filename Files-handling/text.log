@@ -1,0 +1,6 @@
+INFO:root:log this line for execution
+INFO:root:log this line for execution
+INFO:root:this is my print
+WARNING:root:this is my warning
+CRITICAL:root:this is my critical point
+ERROR:root:we found 402 error in system
